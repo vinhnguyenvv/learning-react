@@ -1,0 +1,15 @@
+sử dụng typescript : npx create-react-native-app -t with-typescript
+
+
+
+
+
+thư viện UI luân già giới thiệu
+https://reactnativeelements.com/docs
+https://callstack.github.io/react-native-paper/
+https://docs.nativebase.io/?utm_source=HomePage&utm_medium=Hero_Fold&utm_campaign=NativeBase_3
+
+
+
+code push react center : appcenter 
+là push mới cho user sài, khi code appp mới

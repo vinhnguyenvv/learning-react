@@ -3,10 +3,9 @@ import { View, Text, StyleSheet } from "react-native";
 import SwmLable from '../components/SwmLable'
 
 const HoweView = () => {
-    return <View style={styles.container}>
-        <Text>Open up App.tsx to start working on your app!</Text>
-        <SwmLable title='đệ luân già' />
-    </View>
+    // return <View style={styles.container}>
+    return <SwmLable title='vinh1111' color="red" />
+    //  </View>
 }
 
 const styles = StyleSheet.create({

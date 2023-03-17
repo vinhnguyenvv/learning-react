@@ -1,3 +1,4 @@
+import { Box, NativeBaseProvider } from 'native-base';
 import { StyleSheet, Text, View } from 'react-native';
 import HoweView from './src/views/HomewView';
 
